@@ -41,7 +41,7 @@ This website is purely made with HTML, CSS and JavaScript. It give insights of C
 
 <div style="display: flex" align="center"><br>
 
-<a href="https://sanskargouchandra.github.io/CryptoShastra-Host/" target="_blank"> <img width='900rem' src="(https://github.com/sanskargouchandra/CryptoShastr-Bootstrap-Project/assets/117097248/1a2912ba-b0b0-4ff9-bef9-4691ec19abac" alt=""/></a>
+<a href="https://sanskargouchandra.github.io/CryptoShastra-Host/" target="_blank"> <img width='900rem' src="https://github.com/sanskargouchandra/CryptoShastr-Bootstrap-Project/assets/117097248/1a2912ba-b0b0-4ff9-bef9-4691ec19abac" alt=""/></a>
 
 </div>
 
