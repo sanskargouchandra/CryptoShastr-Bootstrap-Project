@@ -40,7 +40,8 @@ This website is purely made with HTML, CSS and JavaScript. It give insights of C
 ### :camera: ScreenShort
 
 <div style="display: flex" align="center"><br>
-![Screenshot (13)](https://github.com/sanskargouchandra/CryptoShastr-Bootstrap-Project/assets/117097248/91bbda14-f12f-4f39-b16d-f63030282bd0)
+![Screenshot (13)](https://github.com/sanskargouchandra/CryptoShastr-Bootstrap-Project/assets/117097248/1a2912ba-b0b0-4ff9-bef9-4691ec19abac)
+
 
 </div>
 
